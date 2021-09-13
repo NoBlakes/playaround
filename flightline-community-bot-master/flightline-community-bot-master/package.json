@@ -1,0 +1,15 @@
+{
+  "name": "flightlinecommunitybot",
+  "version": "3.3.3",
+  "description": "Flightline Community Bot",
+  "main": "index.js",
+  "author": "JusSupra#6561",
+  "license": "ISC",
+  "homepage": "https://github.com/supraaxdd/flightline-community-bot/blob/master/README.md",
+  "dependencies": {
+    "bcrypt": ">=5.0.0",
+    "discord.js": "^12.1.1",
+    "ms": "^2.1.2",
+    "pg": "^7.18.2"
+  }
+}

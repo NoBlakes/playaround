@@ -1,0 +1,14 @@
+{
+    "botConfig": {
+        "token":"Bot Token goes here",
+        "prefix": ""
+    },
+
+    "psqlConfig": {
+        "user": "Postgres Username",
+        "host": "Host IP",
+        "database": "flightlinebotdb",
+        "password": "Password for above Username",
+        "port": 5432
+    }
+}
